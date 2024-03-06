@@ -1,0 +1,6 @@
+damo/
+.idea/
+__pycache__/
+*.png
+*.jpg
+*.mp4
